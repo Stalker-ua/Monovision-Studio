@@ -108,7 +108,7 @@ html {
     font-size: 60px;
     line-height: normal;
     text-transform: uppercase;
-    color: var(--light-color);
+    color: red;
 
     @media screen and (max-width: 768px) {
         font-size: 26px;
